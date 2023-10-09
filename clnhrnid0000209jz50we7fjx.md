@@ -4,7 +4,7 @@ title: "My Journey to HashiCorp Certified (003):
 datePublished: Sun Oct 08 2023 17:56:51 GMT+0000 (Coordinated Universal Time)
 cuid: clnhrnid0000209jz50we7fjx
 slug: my-journey-to-hashicorp-certified-003-terraform-associate
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696847326487/7d8387a1-3793-4634-a787-6371b5710c9d.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696849095548/b60b3d36-8742-4aa3-9799-51ef59ad67af.avif
 tags: software-development, cloud-computing, devops, terraform, infrastructure-as-code
 
 ---
