@@ -1,13 +1,13 @@
 ---
-title: "My Journey to HashiCorp Certified (003): Terraform Associate"
+title: "My Journey to HashiCorp Certified (003): 
+  Terraform Associate"
 datePublished: Sun Oct 08 2023 17:56:51 GMT+0000 (Coordinated Universal Time)
 cuid: clnhrnid0000209jz50we7fjx
 slug: my-journey-to-hashicorp-certified-003-terraform-associate
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1696847326487/7d8387a1-3793-4634-a787-6371b5710c9d.png
 tags: software-development, cloud-computing, devops, terraform, infrastructure-as-code
 
 ---
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1696782124484/d111ef79-2a25-4b00-a329-aeeb2b213793.jpeg align="center")
 
 Terraform is the infrastructure as a Code offering from HashiCorp. It is a tool for building, changing, and managing infrastructure in a safe, repeatable way. Operators and Infrastructure teams can use Terraform to manage environments with a configuration language called the HashiCorp Configuration Language (HCL) for human-readable, automated deployments.
 
